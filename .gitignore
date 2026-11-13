@@ -1,0 +1,8 @@
+*.test
+*.out
+coverage.html
+go.work
+.vscode/
+.idea/
+*.swp
+.DS_Store
